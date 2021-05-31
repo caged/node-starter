@@ -1,6 +1,6 @@
 import "./style.css";
 
 document.querySelector("#app").innerHTML = `
-  <h1>Success!</h1>
-  <a href="https://vitejs.dev/guide/features.html" target="_blank">Your website is ready.</a>
+  <h1>Great Job!</h1>
+  <a href="https://www.youtube.com/channel/UCsZSBJ83B_xTW-L_eVgm2Xw" target="_blank">Your website is ready.</a>
 `;
